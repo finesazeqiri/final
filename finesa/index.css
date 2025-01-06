@@ -1,0 +1,12 @@
+.body{
+    background-image: url(foto14.jpg);
+    background-size: cover;
+}
+.d0{
+    float: left;
+    display: flex;
+}
+.d00{
+    float: left;
+    display: flex;
+}
